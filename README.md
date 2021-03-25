@@ -5,3 +5,5 @@
 [![Alexa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexasummers&show_icons=true)](https://github.com/alexasummers)
 
 [![Alexa's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexasummers&layout=compact&theme=radical)](https://github.com/alexasummers)
+
+![](https://visitor-badge.glitch.me/badge?page_id=alexasummers.alexasummers)
