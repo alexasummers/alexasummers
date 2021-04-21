@@ -7,3 +7,6 @@
 [![Alexa's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexasummers&layout=compact&theme=radical)](https://github.com/alexasummers)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alexasummers.alexasummers)
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
