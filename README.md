@@ -1,5 +1,8 @@
 <p align = "center">
 <img src="https://github.com/alexasummers/alexasummers/raw/main/Amazon-Frames.gif" alt="Amazon Alexa" width="70%" height="70%">
+  
+  <p>Here, have a dev joke: </p>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 [![Alexa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexasummers&show_icons=true)](https://github.com/alexasummers)
@@ -8,5 +11,3 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alexasummers.alexasummers)
 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
